@@ -117,3 +117,11 @@ FashionFusion/
 │
 ├── index.php                # Main landing/home page
 └── README.md                # Project documentation
+
+## Admin Details
+email - taydeshubham740@gmail.com
+password - Shubham@123
+
+## User Details
+email - taydeshubham740@gmail.com
+password - Shubham@#@#
